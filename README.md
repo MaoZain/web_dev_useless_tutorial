@@ -3,7 +3,7 @@ share some useless tutorial
 
 ### Git tutorial
 1. https://git-scm.com/book/en/v2
-2. https://blog.csdn.net/m0_38069630/article/details/80711989
+2. https://blog.csdn.net/m0_38069630/article/details/80711989 (chinese)
 
 ### JS tutorial
 1. https://www.w3schools.com/js/default.asp
@@ -21,7 +21,8 @@ share some useless tutorial
 
 ### Angular tutorial
 1. https://angular.io/docs
+2. https://angular.cn/docs (chinese version)
    
 ### React tutorial
-1. https://reactjs.org/docs/getting-started.html
+1. https://reactjs.org/docs/getting-started.html (chinese & english)
 
