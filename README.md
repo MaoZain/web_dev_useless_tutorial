@@ -17,3 +17,10 @@ share some useless tutorial
 
 ### MongoDB
 1. https://www.w3schools.com/nodejs/nodejs_intro.asp
+
+### Angular tutorial
+1. https://angular.io/docs
+   
+### React tutorial
+1. https://reactjs.org/docs/getting-started.html
+
