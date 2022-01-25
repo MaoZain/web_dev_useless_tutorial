@@ -17,6 +17,7 @@ share some useless tutorial
 
 ### MongoDB
 1. https://www.w3schools.com/nodejs/nodejs_intro.asp
+2. https://docs.mongodb.com/manual/core/document/
 
 ### Angular tutorial
 1. https://angular.io/docs
