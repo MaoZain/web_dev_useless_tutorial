@@ -27,3 +27,5 @@ share some useless tutorial
 ### React tutorial
 1. https://reactjs.org/docs/getting-started.html (chinese & english)(*)
 
+### EJS
+1. https://ejs.bootcss.com/
