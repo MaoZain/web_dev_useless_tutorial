@@ -1,5 +1,5 @@
-# web_dev_useless_tutorial 
-share some useless tutorial
+# web_dev_useful_tutorial 
+share some useful tutorial
 
 ### Git tutorial
 1. https://git-scm.com/book/en/v2
